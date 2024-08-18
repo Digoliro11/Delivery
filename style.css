@@ -20,7 +20,7 @@ body{
 }
 
 #fundo_p {
-    background-image: url(fotos/foda.jpg);
+    background-image: url(foda.jpg);
     background-repeat: no-repeat;
     border: 1px solid;
     height: 135vh;
@@ -65,7 +65,7 @@ body{
 
 #pedido{
     height: 75vh;
-    background-image: url(fotos/Captura\ de\ tela\ 2024-08-17\ 161502.png);
+    background-image: url(Captura\ de\ tela\ 2024-08-17\ 161502.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
