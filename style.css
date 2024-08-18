@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+}
+
+
+#topo{
+    width: 100%;
+    border-bottom: 1px solid;
+    border-color: white;
+    height: 11vh;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    color: white;
+    background-color: rgba(44, 44, 44, 0.699);
+    font-size: 70px;
+    z-index: 90;
+    position: fixed;
+}
+
+#fundo_p {
+    background-image: url(fotos/foda.jpg);
+    background-repeat: no-repeat;
+    border: 1px solid;
+    height: 135vh;
+    background-size: cover;
+}
+
+.julius-sans-one-regular {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.kodchasan-regular-italic {
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    font-style: bold;
+  }
+
+#premios{
+    border: 1px solid;
+    height: 64.5vh;
+    display: grid;
+    grid-template-columns: 10% 15% 15% 550px 1fr 10%;
+    align-items: center;
+}
+
+#premio50{
+    position: relative;
+    right: 70%;
+}
+
+#borda{
+    border: 1px solid;
+}
+
+#texto{
+    font-size: 35px;
+    text-align: justify;
+    padding: 20px;
+    padding-top: 10%;
+}
+
+#pedido{
+    height: 75vh;
+    background-image: url(fotos/Captura\ de\ tela\ 2024-08-17\ 161502.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#formulario{
+    background-color: rgba(20, 20, 20, 0.918);
+    height: 100%;
+    width: 25%;
+    position: relative;
+    left: 15%;
+}
