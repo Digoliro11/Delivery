@@ -20,9 +20,8 @@ body{
 }
 
 #fundo_p {
-    background-image: url(foda.jpg);
+    background-image: url(foda.png);
     background-repeat: no-repeat;
-    border: 1px solid;
     height: 135vh;
     background-size: cover;
 }
@@ -40,7 +39,6 @@ body{
   }
 
 #premios{
-    border: 1px solid;
     height: 64.5vh;
     display: grid;
     grid-template-columns: 10% 15% 15% 550px 1fr 10%;
